@@ -22,7 +22,7 @@ namespace Productores.Logic
         public Productor(int pid, string pnombre, string ptelefono, string pemail, int pfincas)
         {
             this.id = pid;
-            this.nombre = pnombre;
+            this.nombre = "Stephan Endres";
             this.telefono = ptelefono;
             this.email = pemail;
             this.fincas = pfincas;
